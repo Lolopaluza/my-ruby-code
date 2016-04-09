@@ -1,0 +1,7 @@
+<h2>Search Contact</h2>
+
+<form action="/contacts<%= @i %>/search" method="POST">
+  <p>Name: <input type="text" name="name"></p>
+  <input type="submit" value="Search">
+  <button><a href="/contacts/<%= @i %>">Cancel</a></button>
+</form>

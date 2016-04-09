@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Thomas Jefferson",
+    "phone": "+1 206 310 1369",
+    "email": "tjeff@us.gov"
+  },
+  {
+    "name": "Charles Darwin",
+    "phone": "+44 20 7123 4567",
+    "email": "darles@evolve.org"
+  },
+  {
+    "name": "Nikola Tesla",
+    "phone": "+385 43 987 33559",
+    "email": "nik@inductlabs.com"
+  },
+  {
+    "name": "Genghis Khan",
+    "phone": "+976 2 194 2222",
+    "email": "contact@empire.com"
+  },
+  {
+    "name": "Malcom X",
+    "phone": "+1 310 155 8822",
+    "email": "x@theroost.org"
+  },
+  {
+    "name": "Piet mondriaan",
+    "phone": "+31 33 4656844",
+    "email": "peon@stijl.org"
+  },
+  {
+    "name": "Alan Turin ",
+    "phone": "+33 383690012",
+    "email": "A_turin@imitationgame.think"
+  },
+  {
+    "name": "Adrian Lamo",
+    "phone": "+662 238 454 22",
+    "email": "l@m0@H4cks.gov"
+  }
+]
